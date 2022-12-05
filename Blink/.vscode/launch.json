@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/26863/Documents/Arduino/Blink",
-      "program": "c:/Users/26863/Documents/Arduino/Blink/build/Debug/outDebug",
+      "cwd": "c:/Users/O ever young/Documents/Arduino/Blink",
+      "program": "c:/Users/O ever young/Documents/Arduino/Blink/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
